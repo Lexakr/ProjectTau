@@ -48,7 +48,6 @@ func CreateConnection() {
 		})
 
 	AutoMigrate()
-
 }
 
 func AutoMigrate() {
